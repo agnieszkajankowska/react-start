@@ -14,7 +14,7 @@
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
-  "scripts": {
+  "scripts": { //Project involving Webpack which is supported by NodeJS scripts
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
